@@ -4,7 +4,6 @@ Simple implementation of an encoder and limit switch to an Arduino. Basically, b
 Sample schematics with an Arduino MEGA 2560 are presented below:
 
 ## Encoder Schematic
-<img src="https://github.com/spsvision/EncoderLimit/encSchem.jpg" width=48>
-![](encSchem.jpg | width=48)
+![](encSchem.jpg)
 ## Limit Switch Scematic
 ![](limitswitch.jpg)
